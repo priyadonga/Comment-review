@@ -1,0 +1,24 @@
+{
+  "product": [
+    {
+      "id": "32a5",
+      "name": "watch",
+      "price": 30000
+    },
+    {
+      "id": "d266",
+      "name": "ring",
+      "price": 1000
+    },
+    {
+      "id": "c36a",
+      "name": "saree",
+      "price": 5000
+    },
+    {
+      "id": "178e",
+      "name": "mobile",
+      "price": 70000
+    }
+  ]
+}
